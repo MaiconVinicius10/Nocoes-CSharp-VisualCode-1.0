@@ -1,0 +1,15 @@
+D:\C#\Visual Code\ESTUDO .DOTNET\Nocoes-CSharp-VisualCode\Aula04\bin\Debug\net8.0\Aula04.exe
+D:\C#\Visual Code\ESTUDO .DOTNET\Nocoes-CSharp-VisualCode\Aula04\bin\Debug\net8.0\Aula04.deps.json
+D:\C#\Visual Code\ESTUDO .DOTNET\Nocoes-CSharp-VisualCode\Aula04\bin\Debug\net8.0\Aula04.runtimeconfig.json
+D:\C#\Visual Code\ESTUDO .DOTNET\Nocoes-CSharp-VisualCode\Aula04\bin\Debug\net8.0\Aula04.dll
+D:\C#\Visual Code\ESTUDO .DOTNET\Nocoes-CSharp-VisualCode\Aula04\bin\Debug\net8.0\Aula04.pdb
+D:\C#\Visual Code\ESTUDO .DOTNET\Nocoes-CSharp-VisualCode\Aula04\obj\Debug\net8.0\Aula04.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Visual Code\ESTUDO .DOTNET\Nocoes-CSharp-VisualCode\Aula04\obj\Debug\net8.0\Aula04.AssemblyInfoInputs.cache
+D:\C#\Visual Code\ESTUDO .DOTNET\Nocoes-CSharp-VisualCode\Aula04\obj\Debug\net8.0\Aula04.AssemblyInfo.cs
+D:\C#\Visual Code\ESTUDO .DOTNET\Nocoes-CSharp-VisualCode\Aula04\obj\Debug\net8.0\Aula04.csproj.CoreCompileInputs.cache
+D:\C#\Visual Code\ESTUDO .DOTNET\Nocoes-CSharp-VisualCode\Aula04\obj\Debug\net8.0\Aula04.sourcelink.json
+D:\C#\Visual Code\ESTUDO .DOTNET\Nocoes-CSharp-VisualCode\Aula04\obj\Debug\net8.0\Aula04.dll
+D:\C#\Visual Code\ESTUDO .DOTNET\Nocoes-CSharp-VisualCode\Aula04\obj\Debug\net8.0\refint\Aula04.dll
+D:\C#\Visual Code\ESTUDO .DOTNET\Nocoes-CSharp-VisualCode\Aula04\obj\Debug\net8.0\Aula04.pdb
+D:\C#\Visual Code\ESTUDO .DOTNET\Nocoes-CSharp-VisualCode\Aula04\obj\Debug\net8.0\Aula04.genruntimeconfig.cache
+D:\C#\Visual Code\ESTUDO .DOTNET\Nocoes-CSharp-VisualCode\Aula04\obj\Debug\net8.0\ref\Aula04.dll
